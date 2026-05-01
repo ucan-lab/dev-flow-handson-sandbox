@@ -1,1 +1,1 @@
-const x=1
+const SAMPLE_VALUE = 1
